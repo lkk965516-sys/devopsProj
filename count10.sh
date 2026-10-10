@@ -1,1 +1,2 @@
-echo 10
+#!/bin/bash
+echo TEN
